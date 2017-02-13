@@ -19,7 +19,7 @@
 		"url": "http://www.papoola.solutions"
 	},
 	"lifecycle": {},
-	"baseUrl": "http://localhost:3311",
+	"baseUrl": "https://papoola.github.io/philips-optimization-jira",
 	"authentication": {
 		"type": "none"
 	},
