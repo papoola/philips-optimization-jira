@@ -1,0 +1,12 @@
+<atlassian-plugin name="Philips Optimization" key="philips.plugin.optimization" plugins-version="2">
+    <plugin-info>
+        <description>Philips Optimization Plugin</description>
+        <vendor name="Papoola Solutions" url="http://www.papoola.solutions"/>
+        <version>1.0</version>
+    </plugin-info>
+
+    <web-resource key="my-script" name="MyScript" >
+        <resource type="download" name="script.js" location="script.js" />
+        <context>atl.general</context>
+    </web-resource>
+</atlassian-plugin>

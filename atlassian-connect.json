@@ -1,0 +1,31 @@
+{
+	"modules": {
+		"generalPages": [
+			{
+				"url": "/create-epic.html",
+				"key": "create-epic",
+				"location": "system.top.navigation.bar",
+				"name": {
+					"value": "Create Epic"
+				}
+			}
+		]
+	},
+	"key": "philips-optimization",
+	"name": "Philips Optimization",
+	"description": "Philips Optimization Plugin",
+	"vendor": {
+		"name": "Papoola Solutions",
+		"url": "http://www.papoola.solutions"
+	},
+	"lifecycle": {},
+	"baseUrl": "http://localhost:3311",
+	"authentication": {
+		"type": "none"
+	},
+	"enableLicensing": false,
+	"scopes": [
+		"read",
+		"write"
+	]
+}
